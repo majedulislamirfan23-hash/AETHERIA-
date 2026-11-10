@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria: Project Omega V2",
+  "description": "Ultra-performance open-world 3D RPG with living civilization simulation, deep economy, multi-currency wallet, comprehensive shops, and mobile optimization presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
